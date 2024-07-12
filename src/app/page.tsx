@@ -16,8 +16,23 @@ export default function Home() {
         Hello Masu!
       </h1> */}
       {/* Space */}
-      <p className="mb-1">Masu Muhindo</p>
-      <p >Masu Muhindo</p>
+      {/* <p className="mb-1">Masu Muhindo</p>
+      <p >Masu Muhindo</p> */}
+
+      <h1 className="text-3xl underline
+       decoration-white decoration-wavy
+       decoration-1
+       underline-offset-4"
+       >Title</h1>
+      <h2 className="text-2xl">Title</h2>
+      <h3 className="text-0xl">Title</h3>
+
+      <p className="text-3xl underline
+       decoration-white decoration-wavy
+       decoration-1
+       underline-offset-4">Masu Muhindo</p>
+      <p className="text-sm">Masu Muhindo</p>
+      <p className="text-xs note">Masu Muhindo</p>
     </div>
   );
 }

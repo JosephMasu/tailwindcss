@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 @layer base{
     html{
        @apply bg-slate-600 text-white text-lg font-bold;
+       font-family: Inter, Open-Sans;
     }
 }
 

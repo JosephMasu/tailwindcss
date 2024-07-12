@@ -13,6 +13,7 @@ const config: Config = {
       lg: '976px',
       xl: '1440px',
     },
+    
     spacing: {
       '1': '8px',
       '2': '12px',
@@ -29,7 +30,9 @@ const config: Config = {
       },
       colors:{
         vuejs:'#7932a8'
-      }
+      },font:{
+        base:'18px',
+      },
     }
   },
   plugins: [],
