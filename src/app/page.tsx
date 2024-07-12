@@ -19,7 +19,7 @@ export default function Home() {
       {/* <p className="mb-1">Masu Muhindo</p>
       <p >Masu Muhindo</p> */}
 
-      <h1 className="text-3xl underline
+      {/* <h1 className="text-3xl underline
        decoration-white decoration-wavy
        decoration-1
        underline-offset-4"
@@ -31,8 +31,9 @@ export default function Home() {
        decoration-white decoration-wavy
        decoration-1
        underline-offset-4">Masu Muhindo</p>
-      <p className="text-sm">Masu Muhindo</p>
-      <p className="text-xs note">Masu Muhindo</p>
+      <p className="text-sm">Masu Muhindo</p> */}
+      <p className="whitespace-nowrap">Masu MuhindoMasu MuhindoMasu MuhindoMasu MuhindoMasu MuhindoMasu MuhindoMasu MuhindoMasu MuhindoMasu MuhindoMasu MuhindoMasu Muhindo</p>
+      <p className="break-words">Masu MuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasuMuhindoMasu MuhindoMasu MuhindoMasu MuhindoMasu MuhindoMasu MuhindoMasu MuhindoMasu MuhindoMasu MuhindoMasu MuhindoMasu Muhindo</p>
     </div>
   );
 }
